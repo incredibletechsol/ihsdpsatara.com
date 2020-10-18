@@ -1,0 +1,27 @@
+.paging
+{
+padding: 5px 0px 10px 0px;
+}
+ 
+.paging_displaying
+{
+font-weight:bold;
+}
+ 
+.paging b
+{
+color:     #FFFFFF;
+background: #3BB9FF;
+border: 2px #3090C7 solid;
+padding: 3px;
+ 
+}
+ 
+.paging a
+{
+color: #3090C7;
+background: #eeeeee;
+border: 2px #cccccc solid;
+padding: 2px;
+ 
+}

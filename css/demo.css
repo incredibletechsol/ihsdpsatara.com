@@ -1,0 +1,18 @@
+/* Reset Styles
+***********************/
+
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure,footer, header, hgroup, menu, nav, section {display: block;}
+
+ol, ul {list-style: none;}
+blockquote, q {quotes: none;}
+blockquote:before, blockquote:after,q:before, q:after {content: ''; content: none;}
+table {border-collapse: collapse; border-spacing: 0;}
+strong {font-weight: bold;}
+em {font-style: italic;}
+
+#container {width: 80%; max-width: 1000px; margin: 0 auto;}
+
+h2 {padding: 20px 0 30px; font-size: 18px; line-height: 22px;}
+h2 a {text-decoration: none; color: #427f9e;}
+h2 a:hover {border-bottom: 1px dotted #427f9e;}
