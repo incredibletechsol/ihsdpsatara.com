@@ -5,9 +5,9 @@
 //$db=mysql_select_db("dkkkpmba_ihsdpsatara") or die("ERROR:Database Connection Refused");
 
 $servername = "localhost";
-$username = "kasturic_kasturi";
+$username = "siddhesh_siddhesh";
 $password = "Kasturi254@#$";
-$dbName = "kasturic_ihsdpsatara";
+$dbName = "siddhesh_ihsdpsatara";
 
 
 // Create connection
